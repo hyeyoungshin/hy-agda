@@ -55,3 +55,15 @@ and put it in ~/opt.
         aquamacs First.agda &
 
 
+## First Steps with Agda
+
+Here are instructions describing how to tell Agda to use the standard library.
+http://agda.readthedocs.io/en/latest/tools/package-system.html
+(We haven't followed these instructions yet. We're just keeping the
+link here for future reference.)
+
+Started with this tutorial:
+
+http://people.inf.elte.hu/pgj/agda/tutorial/Index.html
+
+(So far, only Exercise 1 is done---see file First.agda.)
