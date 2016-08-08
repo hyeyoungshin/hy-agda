@@ -31,11 +31,11 @@ and put it in ~/opt.
 
 6. Modify the PATH environment variable so we can find stuff in ~/.cabal/bin
 
-        export PATH=$HOME.cabal/bin:$PATH
+        export PATH=$HOME/.cabal/bin:$PATH
 
-(Note: $HOME=/Users/shinhyeyoung.  Also added `$HOME/.cabal/bin` to
-PATH variable in the config file .bash_profile, so this directory will
-be included in PATH in future.) 
+   (Note: $HOME=/Users/shinhyeyoung.  Also added `$HOME/.cabal/bin` to
+   PATH variable in the config file .bash_profile, so this directory will
+   be included in PATH in future.) 
 
 7. Run update and install the required dependencies for Agda
 
